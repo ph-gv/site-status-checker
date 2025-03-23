@@ -54,7 +54,7 @@
  - Displays messages with HTTP status codes and error details when applicable
 
 🛠️ **Technology**  
- - Python 3.x
+ - Python 3.12.8
 
 📚 **Library**  
  - requests
